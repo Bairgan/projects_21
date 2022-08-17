@@ -1,0 +1,10 @@
+"program": "${workspaceFolder}/push_swap/a.out",
+"args": ["100", "98", "56", "125", "4"],
+"cwd": "${workspaceFolder}/push_swap/",
+
+
+"1", "2", "3", "4", "5", "10", "100", "1000", "2000", "200", "20", "11", "21", "31", "41", "51", "61", "71", "81", "91", "12", "22", "42", "32", "52", "62", "72", "82"
+
+gcc -g ft_atoi.c function.c function2.c function3.c function4.c function5.c oper.c oper2.c oper3.c push_swap.c -o push_swap
+
+printf "$ARG"
